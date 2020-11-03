@@ -1,0 +1,41 @@
+
+body {
+    color: #a8ff42;
+    background-color: black;
+    text-align: center;
+    font-family: 'Inconsolata', monospace;
+}
+
+h1 {
+  text-align: center;
+  font-family: monospace;
+  font-size: 40px;
+  padding-top: 40px;
+  padding-bottom: 20px;
+
+}
+
+.beyonceabout1 {
+  text-align: center;
+  color: antiquewhite;
+}
+
+.PG {
+  display: flex;
+  align-items: center;
+}
+
+.title {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+p {
+  color: #fff968;
+}
+
+.beytext1 {
+  font-size: larger;
+  padding-bottom: 50px;
+}
